@@ -1,2 +1,2 @@
 # sis
-A simple NodeJs command line app to retrieve system inforamtion
+A simple NodeJs command line app to retrieve system information
